@@ -1,0 +1,11 @@
+pandas
+numpy
+dask
+matplotlib
+seaborn
+plotly
+prophet
+xgboost
+scikit-learn
+yfinance
+shap
